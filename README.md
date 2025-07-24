@@ -79,7 +79,3 @@ This project focuses on analyzing the historical stock performance and revenue d
    ```bash
    streamlit run dashboard.py
    ```
-
----
-
-Would you like me to **create and give you a `README.md` file (download link)** with this content formatted and ready to include in your project folder?
